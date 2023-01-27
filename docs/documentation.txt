@@ -1,0 +1,3 @@
+This project was done in Java in the course, but it's done now in Python just to practice and learn as an entry-level
+project for a new language.
+For this reason, the code is not optimized and not done in the better way possible. Just for learning and testing reasons.
